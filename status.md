@@ -1,13 +1,14 @@
 # Project Statistics
 
 ## General Info
-- Total commits: 5
-- Total menu files: 1
-- Total recipes: 4
+- Total commits: 7
+- Total menu files: 2
+- Total recipes: 7
 
 ## Files
 - README.md
 - 2025-10-27.md
+- 2025-10-28.md
 - status.md
 
 ## Recipes
@@ -15,6 +16,9 @@
 - ЛЕНИВЫЕ-ГОЛУБЦЫ-В-МИСКЕ.md
 - ХРУСТЯЩИЙ-И-БЕЛКОВЫЙ.md
 - ЗАПЕЧЕННЫЙ-КУРИНЫЙ-ОКОРОЧОК-С-ПРЯНОЙ-ТЫКВОЙ-C-САЛАТОМ-ИЗ-РУККОЛЫ.md
+- "ЗЕЛЕНЫЙ"-СКРЕМБЛ-С-ТВОРОГОМ-И-ШПИНАТОМ.md
+- САЛАТ-БОУЛ-С-ЛОСОСЕМ-И-ГРЕЧКОЙ.md
+- ПАСТА-ПЕННЕ-С-СОУСОМ-БОЛОНЬЕЗЕ-"ПО-НОВОМУ".md
 
 ## Last Updated
 October 28, 2025
